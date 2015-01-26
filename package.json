@@ -1,0 +1,16 @@
+{
+  "name": "sekai",
+  "version": "0.1.11",
+  "description": "World right in your command line",
+  "main": "index.js",
+  "bin": {
+    "sekai": "./bin/insekai.js"
+  },
+  "author": "0x142857 <0x142857@gmail.com>",
+  "license": "MIT",
+  "preferGlobal": true,
+  "dependencies": {
+    "colorful": "^2.1.0",
+    "request": "^2.51.0"
+  }
+}
