@@ -5,6 +5,8 @@
 [![Build Status](https://travis-ci.org/0x142857/sekai.svg?branch=master)](https://travis-ci.org/0x142857/sekai)
 
 ```bash
+npm install -g sekai
+
 sekai key YOUR_PRIVATE_KEY
 sekai say "I love you"
 sekai get public
