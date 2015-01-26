@@ -10,6 +10,7 @@ sekai say "I love you"
 sekai get public
 sekai get 0x142857
 sekai get follow [page]
+sekai reply TOPIC_ID
 ```
 
 That's it, all insekai.com and more in you command line.
