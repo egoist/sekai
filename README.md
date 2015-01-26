@@ -13,3 +13,7 @@ sekai get follow [page]
 ```
 
 That's it, all insekai.com and more in you command line.
+
+## License
+
+MIT.
