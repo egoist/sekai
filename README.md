@@ -2,6 +2,7 @@
 
 [![NPM version](https://img.shields.io/npm/v/sekai.svg?style=flat)](https://www.npmjs.com/package/sekai)
 [![David Status](https://david-dm.org/0x142857/sekai.svg)](https://david-dm.org/0x142857/sekai)
+[![Build Status](https://travis-ci.org/0x142857/sekai.svg?branch=master)](https://travis-ci.org/0x142857/sekai)
 
 ```bash
 sekai key YOUR_PRIVATE_KEY
