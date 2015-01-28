@@ -10,13 +10,14 @@
 ```bash
 npm install -g sekai
 
-sekai login
-sekai key YOUR_PRIVATE_KEY
-sekai say "I love you"
-sekai get public
-sekai get 0x142857
-sekai get follow [page]
-sekai reply TOPIC_ID
+sekai login                 // log in to INSEKAI.com and auto-save private key for you
+sekai key YOUR_PRIVATE_KEY  // set your private key
+sekai say "I love you"      // send new status
+sekai get public            // get public timeline, alias to <sekai get>
+sekai get 0x142857          // get status by username
+sekai get follow [page]     // get the status by the people you followed
+sekai reply                 // get unread message
+sekai reply TOPIC_ID        // reply to some topic
 ```
 
 That's it, all insekai.com and more in you command line.
