@@ -1,6 +1,6 @@
 {
   "name": "sekai",
-  "version": "0.2.20",
+  "version": "0.2.21",
   "description": "World right in your command line",
   "main": "index.js",
   "bin": {
