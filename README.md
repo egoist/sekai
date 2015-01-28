@@ -10,6 +10,7 @@
 ```bash
 npm install -g sekai
 
+sekai login
 sekai key YOUR_PRIVATE_KEY
 sekai say "I love you"
 sekai get public
