@@ -11,7 +11,7 @@ if (!process.argv[2]) {
   console.log('  $ '.cyan + 'sekai get public [page]');
   console.log('  $ '.cyan + 'sekai get follow [page]');
   console.log('  $ '.cyan + 'sekai get username [page]');
-  console.log('  $ '.cyan + 'sekai reply');
+  console.log('  $ '.cyan + 'sekai notie');
   console.log('  $ '.cyan + 'sekai reply TOPIC_ID');
   return;
 }

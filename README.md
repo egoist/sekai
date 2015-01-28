@@ -16,7 +16,7 @@ sekai say "I love you"      // send new status
 sekai get public            // get public timeline, alias to <sekai get>
 sekai get 0x142857          // get status by username
 sekai get follow [page]     // get the status by the people you followed
-sekai reply                 // get unread message
+sekai notie                 // get unread message
 sekai reply TOPIC_ID        // reply to some topic
 ```
 
