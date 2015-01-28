@@ -1,10 +1,14 @@
 {
   "name": "sekai",
-  "version": "0.2.11",
+  "version": "0.2.12",
   "description": "World right in your command line",
   "main": "index.js",
   "bin": {
     "sekai": "./bin/insekai.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/0x142857/sekai.git"
   },
   "author": "0x142857 <0x142857@gmail.com>",
   "license": "MIT",
